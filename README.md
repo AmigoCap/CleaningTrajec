@@ -10,7 +10,7 @@ Le but ici est de, en utilisant un certain de jeu de données, pourvoir détecte
 
 # Déroulement
 
-Une première étape sera de comprendre ces jeu de données, en utilisant le python (plus précisément la librairie matplotlib, outil de visualisation de donnée, et de se famliariser avec les différentes librairiesmise e, mâce.
+Une première étape sera de comprendre ces jeu de données, en utilisant le python (plus précisément la librairie matplotlib, outil de visualisation de donnée), et de se famliariser avec les différentes librairies mises en oeuvre.
 
 Dans un deuxième temps, une tentative de détection de données errornées se réalisera, en s'inspirant de celles qui ne le sont pas, et qui serviront de référence.
 
