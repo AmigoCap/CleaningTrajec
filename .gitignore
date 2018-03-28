@@ -1,4 +1,5 @@
 # Pycharm config folder
 venv/
+.idea/
 
 other/
