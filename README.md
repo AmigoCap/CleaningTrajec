@@ -1,9 +1,9 @@
 # Contexte
 
-L'avancée technologique nous permet aujourd'hui modéliser à travers des détecteurs la position d'un appareil movible (e.g. persone, avion, voiture etc).
+L'avancée technologique nous permet aujourd'hui de modéliser à travers des détecteurs la position d'un appareil mobile (e.g. persone, avion, voiture etc).
 La récolte de ses données nous permet certes d'avoir une vision globable de sa trajectoire, mais il arrive qu'il y ait des erreurs de détection.
 
-Le but ici est de, en utilisant un certain de jeu de données, pourvoir détecter ces erreurs de trajectoires.
+Le but ici est, en utilisant un certain de jeu de données, de pourvoir détecter ces erreurs de trajectoires.
 
 
 # Déroulement
@@ -14,12 +14,10 @@ Dans un deuxième temps, une tentative de détection de données errornées se r
 
 Ce n'est que par la suite que la correction des trajectoires va être mise en place.
 
-
 # Travail réalisé
 
 [Connaissance des jeux de données et des différentes libraries Python (Pandas et Matplotlib)](01_Familiarisation des données.ipynb)
 [Mise en place des hypothèse de reconnaissances des trajectoires erronées](02_Détection des erreurs.ipynb)
-
 
 # Dates
 
