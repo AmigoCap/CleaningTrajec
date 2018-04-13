@@ -16,8 +16,9 @@ Ce n'est que par la suite que la correction des trajectoires va être mise en pl
 
 # Travail réalisé
 
-[Connaissance des jeux de données et des différentes libraries Python (Pandas et Matplotlib)](01_Familiarisation des données.ipynb)
-[Mise en place des hypothèse de reconnaissances des trajectoires erronées](02_Détection des erreurs.ipynb)
+[Connaissance des jeux de données et des différentes libraries Python (Pandas et Matplotlib)](01_Familiarisation%20des%20données.ipynb)
+
+[Mise en place des hypothèse de reconnaissances des trajectoires erronées](02_Détection%20des%20erreurs.ipynb)
 
 # Dates
 
