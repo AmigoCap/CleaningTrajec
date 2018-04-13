@@ -1,5 +1,3 @@
-### *Modification en cours*
-
 # Contexte
 
 L'avancée technologique nous permet aujourd'hui modéliser à travers des détecteurs la position d'un appareil movible (e.g. persone, avion, voiture etc).
@@ -19,7 +17,18 @@ Ce n'est que par la suite que la correction des trajectoires va être mise en pl
 
 # Travail réalisé
 
-...
+[Connaissance des jeux de données et des différentes libraries Python (Pandas et Matplotlib)](01_Familiarisation des données.ipynb)
+[Mise en place des hypothèse de reconnaissances des trajectoires erronées](02_Détection des erreurs.ipynb)
 
 
+# Dates
 
+| Dates | Tâches |
+| :---: | :---: |
+| 05/02 > 09/02 | Choix des librairies et outils graphiques |
+| 12/02 > 28/02 | Familiarisation de l'outil graphique et jeux de données (Python) |
+| 21/02 > 19/03 | Mise en place d'une regle de référence/Détection d'erreurs sur une partie du jeu de donénes(Python) |
+| 19/03 > 02/04 | Portage du code Python vers Python Notebook |
+| 02/04 > 23/04 | Test de détection sur la totalité du jeu données/améalioration |
+| 23/04 > 05/05 | Mise en place d'un système de nettoyage |
+| 06/05 > ... | Début de préparation orale du projet (poster...) |
